@@ -1,4 +1,4 @@
-# gulp-supersede
+# gulp-supersede [![Build Status](https://travis-ci.org/247even/gulp-supersede.png?branch=master)](https://travis-ci.org/247even/gulp-supersede)
 
 
 ## Example
