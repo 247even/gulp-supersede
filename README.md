@@ -3,7 +3,7 @@
 
 ## Example
 
-### `index.html`
+#### `index.html`
 
 ```html
 <html>
