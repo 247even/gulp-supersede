@@ -17,7 +17,6 @@
 ### `helloworld.txt`
 ```html
 Hello World!
-...
 ```
 
 ### `gulpfile.js`
