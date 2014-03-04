@@ -21,7 +21,7 @@
   "dependencies": {
     "gulp-util": "~2.2.14",
     "through2": "~0.4.1",
-    "cheerio": "~0.13.1",
+    "cheerio": "~0.13.1"
   },
   "devDependencies": {
     "mocha": "~1.17.1"
