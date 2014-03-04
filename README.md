@@ -14,12 +14,12 @@
 ...
 ```
 
-### `helloworld.txt`
+#### `helloworld.txt`
 ```html
 Hello World!
 ```
 
-### `gulpfile.js`
+#### `gulpfile.js`
 
 ```js
 var gulp = require('gulp');
@@ -32,7 +32,7 @@ gulp.task('default', function () {
 });
 ```
 
-### `path/index.html`
+#### `path/index.html`
 
 ```html
 <html>
@@ -47,6 +47,6 @@ gulp.task('default', function () {
 
 
 
-## License
+### License
 
 MIT © 247even
