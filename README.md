@@ -16,11 +16,7 @@
 
 ### `helloworld.txt`
 ```html
-<html>
-	<head>
-	</head>
-	<body>
-		<div supersede="helloworld.txt"> </div>
+Hello World!
 ...
 ```
 
